@@ -22,21 +22,7 @@ This portfolio highlights a few representative projects. Everything here is repr
 - **BI Dashboards** — Selected **Power BI** dashboards (anonymized), with KPIs, SLA governance, and data quality checks.  
   → [`projects/bi-dashboards`](projects/bi-dashboards)
 
-## 📦 Quickstart
 
-```bash
-# clone your repo once it's on GitHub
-git clone https://github.com/<your-username>/portfolio.git
-cd portfolio
-
-# (optional) create a virtual env
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# install per-project requirements
-pip install -r projects/salary-ml-tfm/requirements.txt
-pip install -r projects/la-liga-analytics/requirements.txt
-```
 
 ## 🧰 Skills
 - **Analytics / BI**: Power BI (DAX, M), KPI/SLA governance, reporting automation
