@@ -36,4 +36,5 @@ This portfolio highlights a few representative projects. Everything here is repr
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/marcos-sanchez-pozo (replace with your link)
-- Email: add your contact email
+- Email: X12msp@gmail.com
+- Phone Number: (263)384-2199
